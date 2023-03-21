@@ -88,8 +88,8 @@ class _LoginWidgetState extends State<LoginWidget> {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
-                  Lottie.network(
-                    'https://assets10.lottiefiles.com/packages/lf20_ug4q6zc4.json',
+                  Lottie.asset(
+                    'assets/lottie_animations/100127-navigation.json',
                     width: 400.0,
                     height: 300.0,
                     fit: BoxFit.cover,

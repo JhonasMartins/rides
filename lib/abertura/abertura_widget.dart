@@ -82,8 +82,8 @@ class _AberturaWidgetState extends State<AberturaWidget> {
                                 mainAxisSize: MainAxisSize.max,
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
-                                  Lottie.network(
-                                    'https://assets10.lottiefiles.com/packages/lf20_ug4q6zc4.json',
+                                  Lottie.asset(
+                                    'assets/lottie_animations/100127-navigation.json',
                                     width: 400.0,
                                     height: 400.0,
                                     fit: BoxFit.cover,
